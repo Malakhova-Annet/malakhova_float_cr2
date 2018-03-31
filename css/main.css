@@ -1,0 +1,30 @@
+.block_one {
+    background-color: black;
+}
+.left {
+    float: left;
+    width: 20%;
+    height: 150px;
+    background-color: yellowgreen;
+}
+ .right {
+     float: right;
+     width: 20%;
+     height: 150px;
+     background-color: yellowgreen;
+ }
+
+ .block_second {
+     background-color: red;
+     float: left;
+ }
+
+.img {
+    background-color: #3498db;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.red {
+font-size: 18px;
+}
